@@ -13,7 +13,10 @@ __Results__
 *sample.py* is a sample file on how to call the packaged library and return the processed image. For usage that requires output of bounding boxes instead of annotated image, please use *processFrame()* instead.
 
 Single person in image
+
 <img src="/sample_result.png?" width="500"/>
 
+
 Multiple persons in image
+
 <img src="/sample_result_mult.png?" width="500"/>
